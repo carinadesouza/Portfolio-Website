@@ -23,7 +23,8 @@ body{
   align-items: flex-start;
   justify-content: space-between;
   background:linear-gradient(blueviolet, deeppink);
-  padding:1.5rem;
+  padding-top: 20px;
+  padding-left:3rem;
 }
 
 section{
@@ -129,7 +130,7 @@ header .navbar ul li a:hover{
 } 
 .navbar1 ul{ 
   
-margin-left: 280px;
+margin-left: 270px;
   display: flex;  
   flex-direction:row ;
 }
@@ -504,12 +505,7 @@ border-radius: 10px;
   color:#eee;
 }
 
-.theme-toggler{
-  background:rgba(255,255,255,.2);
-  box-shadow: 0 1rem 2rem rgba(0,0,0,.2);
-  border-radius: 1rem;
-  backdrop-filter: blur(.4rem);
-}
+
 
 .theme-toggler span{
   display: block;
