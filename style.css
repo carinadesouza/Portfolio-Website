@@ -22,7 +22,7 @@ body{
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  background:linear-gradient(deeppink, purple);
+  background:linear-gradient(blueviolet, deeppink);
   padding:1.5rem;
 }
 
